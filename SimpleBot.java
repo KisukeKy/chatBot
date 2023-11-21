@@ -12,6 +12,6 @@ public class SimpleBot {
         String userName = scanner.nextLine();
 
         System.out.println("What a great name you have, " + userName + "!");
-        // more to come! Yay!
+        // need to add more
     }
 }
